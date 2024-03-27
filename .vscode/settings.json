@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "本地_mysql_8.3.0_sql_study",
+            "username": "root",
+            "database": "sql_study",
+            "password": "chenlin"
+        }
+    ]
+}
